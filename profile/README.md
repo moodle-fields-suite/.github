@@ -1,3 +1,5 @@
+<img src="https://moodle-fields-suite.github.io/img/logo.svg" alt="Moodle Fields Suite" width="96" height="96" />
+
 # Boas-vindas à **Moodle Fields Suite**!
 
 A **Moodle Fields Suite** reúne plugins de **campos** para o **Moodle** (não oficial): novos tipos de campo de perfil e de campo personalizado, e áreas de campos personalizados onde o Moodle não tem nenhuma, como categorias de curso, competências e emblemas.
