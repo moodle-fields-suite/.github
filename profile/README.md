@@ -8,13 +8,13 @@ Os plugins seguem o mesmo padrão de código, testes, documentação e publicaç
 
 | Plugin | O que faz |
 |---|---|
-| [`profilefield_json`](https://github.com/moodle-fields-suite/profilefield_json) | Campo de perfil do usuário com um documento JSON e editor visual |
-| [`customfield_json`](https://github.com/moodle-fields-suite/customfield_json) | Campo personalizado JSON para cursos, coortes, grupos e demais áreas |
-| [`tool_categorycustomfields`](https://github.com/moodle-fields-suite/tool_categorycustomfields) | Campos personalizados para categorias de curso |
-| [`tool_competencycustomfields`](https://github.com/moodle-fields-suite/tool_competencycustomfields) | Campos personalizados para competências e quadros de competências |
-| [`tool_learningplancustomfields`](https://github.com/moodle-fields-suite/tool_learningplancustomfields) | Campos personalizados para modelos e planos de aprendizagem |
-| [`tool_badgecustomfields`](https://github.com/moodle-fields-suite/tool_badgecustomfields) | Campos personalizados para emblemas, com backup e restauração |
-| [`local_fieldssuite`](https://github.com/moodle-fields-suite/local_fieldssuite) | Plugin comum das áreas de campos personalizados |
+| [`profilefield_json`](https://github.com/moodle-fields-suite/moodle-profilefield_json) | Campo de perfil do usuário com um documento JSON e editor visual |
+| [`customfield_json`](https://github.com/moodle-fields-suite/moodle-customfield_json) | Campo personalizado JSON para cursos, coortes, grupos e demais áreas |
+| [`tool_categorycustomfields`](https://github.com/moodle-fields-suite/moodle-tool_categorycustomfields) | Campos personalizados para categorias de curso |
+| [`tool_competencycustomfields`](https://github.com/moodle-fields-suite/moodle-tool_competencycustomfields) | Campos personalizados para competências e quadros de competências |
+| [`tool_learningplancustomfields`](https://github.com/moodle-fields-suite/moodle-tool_learningplancustomfields) | Campos personalizados para modelos e planos de aprendizagem |
+| [`tool_badgecustomfields`](https://github.com/moodle-fields-suite/moodle-tool_badgecustomfields) | Campos personalizados para emblemas, com backup e restauração |
+| [`local_fieldssuite`](https://github.com/moodle-fields-suite/moodle-local_fieldssuite) | Plugin comum das áreas de campos personalizados |
 
 Confira mais detalhes no portal da organização:
 
